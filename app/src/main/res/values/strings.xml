@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="subtitle">Best pictures of 2017</string>
+    <string name="title">TRAVEL</string>
+    <string name="title_picture1">Purple Flower</string>
+    <string name="title_picture2">Moon</string>
+    <string name="title_picture3">Sea</string>
+    <string name="title_picture4">Sea</string>
+    <string name="place1">Malasia</string>
+    <string name="place2">Canada</string>
+    <string name="place3">Chile</string>
+    <string name="place4">Africa</string>
+</resources>
